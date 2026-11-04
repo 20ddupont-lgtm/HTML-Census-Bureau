@@ -1,0 +1,7 @@
+# Ignore local OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore any XAMPP temporary files or backups you might create locally
+*.log
+.htaccess.local
